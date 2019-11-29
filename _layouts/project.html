@@ -30,13 +30,15 @@ layout: compress
                     {% if post.project %}
                     <ul>
                         <li class="wow" data-wow-duration="1.5s">
-                            <div style="overflow: hidden; height: 320px; position: relative; margin-bottom: 16px;">
-                                <img src="{{ site.url }}/assets/img/{{ post.image }}" alt=""
-                                    style="width: 100%; position: absolute; top: -50%">
-                            </div>
+                            <a href="{{ site.url }}{{ post.url }}">
+                                <div style="overflow: hidden; height: 320px; position: relative; margin-bottom: 16px;">
+                                    <img src="{{ site.url }}/assets/img/{{ post.image }}" alt=""
+                                        style="width: 100%; position: absolute; top: -50%">
+                                </div>
+                            </a>
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">자세히</a>
                         </li>
                     </ul>
                     {% endif %}
