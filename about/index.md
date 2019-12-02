@@ -13,24 +13,24 @@ comments: false
 
 저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
 
-
+---
 <br>
 
 # What I can use?
 ### Language
-<div style="margin-top:1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/python.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/javascript.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
 ### FrameWork
-<div style="margin-top: 1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/django.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/vuejs.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
 ### Web Skills
-<div style="margin-top: 1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/javascript.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/html_css.png" style="width:100px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/tailwind.jpg" style="width:60px;height:60px;margin-left:2rem;">
@@ -38,12 +38,12 @@ comments: false
 </div>
 
 ### Database
-<div style="margin-top: 1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/postgresql.png" style="width:60px;height:60px;">
 </div>
 
 ### Hosting
-<div style="margin-top: 1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/aws.png" style="width:70px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/firebase.png" style="width:60px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/heroku.jpg" style="width:60px;height:60px;margin-left:2rem;">
@@ -51,12 +51,13 @@ comments: false
 </div>
 
 ### Collaboration
-<div style="margin-top: 1rem;display:inline-flex;">
+<div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/github.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/jira.png" style="width:60px;height:60px;margin-left:2rem;">
-    <img src="{{ site.url }}/assets/img/logos/slack.jpg" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/logos/slack.png" style="width:60px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/trello.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
+---
 <br>
 
 # What I've done?

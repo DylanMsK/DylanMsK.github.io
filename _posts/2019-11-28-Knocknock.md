@@ -15,17 +15,31 @@ tag:
 comments: false
 ---
 
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=QkY_2X8F-Jc" frameborder="0"></iframe>
 
-
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center><b>[낰낰](https://client-knocknock.web.app/)</b> 서비스 시연 영상.</center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+## 서비스 개요
+**낰낰(Knocknock)** 은 근처 영업중인 요식업체 실시간 조회 서비스 입니다.<br>
+유저는 클라이언트/파트너로 나누었으며, 클라이언트는 방문 희망하는 시간을 입력해 영업중인 인근 요식업체를 조회하고 후기를 작성합니다.<br>
+파트너는 자신이 소유한 업체의 정보를 관리하며 특이사항 또는 이벤트 발생시 클라이언트에게 메세지/팝업을 전송합니다.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-## Installation
+<br>
+
+## 담당 역할
+* 백엔드: Python, Django, Pandas, AWS EC2, AWS RDS, Nginx
+
+<br>
+
+## 주요 개발 내용
+* Django Restframework를 이용한 REST API 개발
+* 18만개의 요식업체 정보 수집 및 가공
+* DB 모델 설계 및 쿼리 최적화
+* AWS EC2 배포 및 서비스 유지/보수
+
+<br>
+
+## 사용된 기술 스택
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
@@ -34,14 +48,14 @@ comments: false
      
 That's all.
 
-## Preview
+## 미리보기
 
 {% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
+    {{ site.url }}/assets/img/projects/knocknock/restaurant_list.png
+    {{ site.url }}/assets/img/projects/knocknock/restaurant_detail.png
+    {{ site.url }}/assets/img/projects/knocknock/partner.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
 
 ---
 
