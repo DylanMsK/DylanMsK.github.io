@@ -13,6 +13,7 @@ comments: false
 
 저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
 
+<br>
 ---
 <br>
 
@@ -57,6 +58,7 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/slack.png" style="width:60px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/trello.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
+<br>
 ---
 <br>
 
@@ -101,39 +103,3 @@ comments: false
 ### 역할
 * 백엔드: Python, Django, Selinium, Heroku
 * 프론트: HTML, CSS, Vanilla JS, Bootstrap
-
-
-
-
-
-
-    
-<center><a href="http://dylanmsk.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
