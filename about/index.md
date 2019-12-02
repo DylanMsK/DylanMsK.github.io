@@ -68,7 +68,7 @@ comments: false
 
 # What I've done?
 
-## Airdnd
+## Airbnb
 에어비엔비의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
 유저는 게스트/호스트로 나누었으며, 게스트는 예약을 하고 호스트에게 메세지를 보내고 후기를 작성할 수 있습니다.<br>
 호스트는 슈퍼 유저로서 예약을 관리하고 게스트에게 피드백을 보낼 수 있는 패널을 제공받습니다.
@@ -76,6 +76,8 @@ comments: false
 ### 역할
 * 백엔드: Python, Django, AWS ElasticBeantalk, AWS S3
 * 프론트: HTML, CSS, Vanilla JS, Tailwind CSS, Gulp
+
+![Airbnb Mainpage]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
 
 <br>
 
