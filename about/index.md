@@ -7,12 +7,16 @@ comments: false
 ---
 
 # Who I am?
-저 자신만의 성장보다는 함께 성장하여 서로의 단점을 보완하는 개발 문화를 지향합니다. 새로운 기술과 툴을 배우는 데 있어 두려움보다는 흥미가 앞서고, 겸손한 자세로 배워 나갑니다. 저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
+저 자신만의 성장보다는 함께 성장하여 서로의 단점을 보완하는 개발 문화를 지향합니다.
+
+새로운 기술과 툴을 배우는 데 있어 두려움보다는 흥미가 앞서고, 겸손한 자세로 배워 나갑니다.
+
+저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
 
 
 <br>
 
-# What I can?
+# What I can use?
 ### Language
 <div style="margin-top:1rem;display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/python.png" style="width:60px;height:60px;">
@@ -44,6 +48,14 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/firebase.png" style="width:60px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/heroku.jpg" style="width:60px;height:60px;margin-left:2rem;">
     <img src="{{ site.url }}/assets/img/logos/netlify.png" style="width:60px;height:60px;margin-left:2rem;">
+</div>
+
+### Collaboration
+<div style="margin-top: 1rem;display:inline-flex;">
+    <img src="{{ site.url }}/assets/img/logos/github.png" style="width:60px;height:60px;">
+    <img src="{{ site.url }}/assets/img/logos/jira.png" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/logos/slack.jpg" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/logos/trello.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 <br>
 
