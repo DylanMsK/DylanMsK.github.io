@@ -14,7 +14,9 @@ comments: false
 저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
 
 <br>
+
 ---
+
 <br>
 
 # What I can use?
@@ -59,7 +61,9 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/trello.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 <br>
+
 ---
+
 <br>
 
 # What I've done?

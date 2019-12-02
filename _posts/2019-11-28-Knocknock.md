@@ -1,11 +1,9 @@
 ---
-project: true
 layout: post
 title:  "Knocknock"
 date:   2019-11-28
-excerpt: "근처 영업중인 요식업체 실시간 조회 서비스 입니다.
-        유저는 클라이언트/파트너로 나누었으며, 클라이언트는 방문 희망하는 시간을 입력해 영업중인 인근 요식업체를 조회 가능합니다.
-        파트너는 자신이 소유한 업체의 정보를 관리하며 특이사항 또는 이벤트 발생시 클라이언트에게 메세지/팝업을 전송합니다."
+excerpt: "근처 영업중인 요식업체 실시간 조회 서비스 입니다.유저는 클라이언트/파트너로 나누었으며, 클라이언트는 방문 희망하는 시간을 입력해 영업중인 인근 요식업체를 조회 가능합니다.파트너는 자신이 소유한 업체의 정보를 관리하며 특이사항 또는 이벤트 발생시 클라이언트에게 메세지/팝업을 전송합니다."
+project: true
 image: "knocknock/knocknock.png"
 tag:
 - Python
@@ -54,5 +52,3 @@ comments: false
     {{ site.url }}/assets/img/projects/knocknock/partner.png
 {% endcapture %}
 {% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
-
----
