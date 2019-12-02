@@ -1,12 +1,12 @@
 # Site
 title:              Minsu Kang
-bio:                "Aim for better experience."
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                "I do love learning technologies, working together and developing services."
+description:        "I do love learning technologies, working together and developing services."
 birth:              "1992.12.07"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.jpeg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background-image.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
 url:                https://DylanMsK.github.io
