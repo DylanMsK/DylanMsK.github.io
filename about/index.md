@@ -13,7 +13,10 @@ comments: false
 # What I can?
 ## Languages
 <div style="margin-top: 2rem;">
-    <img src="{{ site.url }}/assets/img/python.png" style="width:100px;height:100px;">
+    <div class="display:inline;align-items:center;">
+        <img src="{{ site.url }}/assets/img/python.png" style="width:100px;height:100px;">
+        <span>python</span>
+    </div>
     <img src="{{ site.url }}/assets/img/javascript.png" style="width:100px;height:100px;margin-left:2rem;">
 </div>
 
