@@ -11,13 +11,37 @@ comments: false
 
 
 # What I can?
-## Languages
-<div style="margin-top: 2rem;">
-    <div class="display:inline;align-items:center;">
-        <img src="{{ site.url }}/assets/img/python.png" style="width:100px;height:100px;">
-        <span>python</span>
-    </div>
-    <img src="{{ site.url }}/assets/img/javascript.png" style="width:100px;height:100px;margin-left:2rem;">
+## Language
+<div style="margin-top: 1rem;">
+    <img src="{{ site.url }}/assets/img/python.png" style="width:60px;height:60px;">
+    <img src="{{ site.url }}/assets/img/javascript.png" style="width:60px;height:60px;margin-left:2rem;">
+</div>
+
+## FrameWork
+<div style="margin-top: 1rem;">
+    <img src="{{ site.url }}/assets/img/django.png" style="width:60px;height:60px;">
+    <img src="{{ site.url }}/assets/img/vuejs.png" style="width:60px;height:60px;margin-left:2rem;">
+</div>
+
+## Web Skills
+<div style="margin-top: 1rem;">
+    <img src="{{ site.url }}/assets/img/javascript.png" style="width:60px;height:60px;">
+    <img src="{{ site.url }}/assets/img/html_css.png" style="width:100px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/tailwind.jpg" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/bootsrtap.png" style="width:60px;height:60px;margin-left:2rem;">
+</div>
+
+## Database
+<div style="margin-top: 1rem;">
+    <img src="{{ site.url }}/assets/img/postgresql.png" style="width:60px;height:60px;">
+</div>
+
+## Hosting
+<div style="margin-top: 1rem;">
+    <img src="{{ site.url }}/assets/img/aws.png" style="width:60px;height:60px;">
+    <img src="{{ site.url }}/assets/img/firebase.png" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/heroku.png" style="width:60px;height:60px;margin-left:2rem;">
+    <img src="{{ site.url }}/assets/img/bootsrtap.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
 # What I've done?
