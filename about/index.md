@@ -1,10 +1,24 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-12-02
 comments: false
 ---
+
+# Who I am?
+ㄲㄱ
+
+
+# What I can?
+## Languages
+<div style="margin-top: 2rem;">
+    <img src="{{ site.url }}/assets/img/python.png" style="width:100px;height:100px;">
+    <img src="{{ site.url }}/assets/img/javascript.png" style="width:100px;height:100px;margin-left:2rem;">
+</div>
+
+# What I've done?
+
     
 <center><a href="http://dylanmsk.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
