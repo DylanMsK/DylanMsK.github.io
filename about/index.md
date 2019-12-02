@@ -77,7 +77,7 @@ comments: false
 * 백엔드: Python, Django, AWS ElasticBeantalk, AWS S3
 * 프론트: HTML, CSS, Vanilla JS, Tailwind CSS, Gulp
 
-![Airbnb Mainpage]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
+![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
 
 <br>
 
@@ -89,6 +89,13 @@ comments: false
 ### 역할
 * 백엔드: Python, Django, Pandas, AWS EC2, AWS RDS, Nginx
 
+{% capture images %}
+    {{ site.url }}/assets/img/projects/knocknock/restaurant_list.png
+    {{ site.url }}/assets/img/projects/knocknock/restaurant_detail.png
+    {{ site.url }}/assets/img/projects/knocknock/partner.png
+{% endcapture %}
+{% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
+
 <br>
 
 ## 당근마켓
@@ -99,6 +106,8 @@ comments: false
 ### 역할
 * 백엔드: Python, Django, Heroku, AWS S3
 * 프론트: HTML, CSS, JQuery, Bootstrap
+
+![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
 
 <br>
 
