@@ -6,14 +6,16 @@ excerpt: "근처 영업중인 요식업체 실시간 조회 서비스"
 project: true
 image: "django.png"
 tag:
+- Python
 - Django
 - PostgreSQL
-- Vue.js
-- Jira
 - AWS
-- Firebase
+- Nginx
+- Crawler
 comments: false
 ---
+
+
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
