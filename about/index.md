@@ -24,18 +24,18 @@ comments: false
 <br>
 
 # What I can use?
-### Language
+### 언어
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/python.png" style="width:60px;height:60px;">
 </div>
 
-### FrameWork
+### 프레임워크
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/django.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/vuejs.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
-### Web Skills
+### 프론트 기술
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/javascript.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/html_css.png" style="width:100px;height:60px;margin-left:2rem;">
@@ -43,12 +43,12 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/bootstrap.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
-### Database
+### 데이터베이스
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/postgresql.png" style="width:60px;height:60px;">
 </div>
 
-### Hosting
+### 호스팅
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/aws.png" style="width:70px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/firebase.png" style="width:60px;height:60px;margin-left:2rem;">
@@ -56,7 +56,7 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/netlify.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
-### Collaboration
+### 협업 툴
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/github.png" style="width:60px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/jira.png" style="width:60px;height:60px;margin-left:2rem;">
@@ -77,50 +77,51 @@ comments: false
 호스트는 슈퍼 유저로서 예약을 관리하고 게스트에게 피드백을 보낼 수 있는 패널을 제공받습니다.
 
 ### 역할
-* 백엔드: Python, Django, AWS ElasticBeantalk, AWS S3
-* 프론트: HTML, CSS, Vanilla JS, Tailwind CSS, Gulp
+* 백엔드: `Python`, `Django`, `AWS ElasticBeantalk`, `AWS S3`
+* 프론트: `HTML`, `CSS`, `Vanilla JS`, `Tailwind CSS`, `Gulp`
 
 ![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
 
 <br>
 
-## Knocknock
+## [Knocknock]({{ site.url }}/Knockonck)
 근처 영업중인 요식업체 실시간 조회 서비스 입니다.<br>
 유저는 클라이언트/파트너로 나누었으며, 클라이언트는 방문 희망하는 시간을 입력해 영업중인 인근 요식업체를 조회 가능합니다.<br>
 파트너는 자신이 소유한 업체의 정보를 관리하며 특이사항 또는 이벤트 발생시 클라이언트에게 메세지/팝업을 전송합니다.
 
 ### 역할
-* 백엔드: Python, Django, Pandas, AWS EC2, AWS RDS, Nginx
+* 백엔드: `Python`, `Django`, `Pandas`, `AWS EC2`, `AWS RDS`, `Nginx`
 
 {% capture images %}
     {{ site.url }}/assets/img/projects/knocknock/restaurant_list.png
     {{ site.url }}/assets/img/projects/knocknock/restaurant_detail.png
-    {{ site.url }}/assets/img/projects/knocknock/partner.png
 {% endcapture %}
 {% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
 
 <br>
 
-## 당근마켓
+## [당근마켓]({{ site.url }}/Daangn)
 당근마켓의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
 유저는 구매자/판매자로 나누었으며, 구매자는 판매자에게 채팅으로 거래를 신청하고 후기를 작성할 수 있습니다.<br>
 판매자는 판매글을 작성하고 구매자들의 채팅에 피드백을 보낼 수 있습니다.
 
 ### 역할
-* 백엔드: Python, Django, Heroku, AWS S3
-* 프론트: HTML, CSS, JQuery, Bootstrap
+* 백엔드: `Python`, `Django`, `Heroku`, `AWS S3`
+* 프론트: `HTML`, `CSS`, `JQuery`, `Bootstrap`
 
 ![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
 
 <br>
 
-## Box.
+## [Box.]({{ site.url }}/Box)
 국가별 박스오피스와 넷플릭스의 주간 랭킹을 조회하는 서비스 입니다.<br>
 유저는 해당 영상에 대한 트레일러와 간단한 정보를 조회할 수 있습니다.
 
 ### 역할
-* 백엔드: Python, Django, Selinium, Heroku
-* 프론트: HTML, CSS, Vanilla JS, Bootstrap
+* 백엔드: `Python`, `Django`, `Selinium`, `Heroku`
+* 프론트: `HTML`, `CSS`, `Vanilla JS`, `Bootstrap`
+
+![Box 국가 리스트]({{ site.url }}/assets/img/projects/box/country_list.png)
 
 <br>
 
