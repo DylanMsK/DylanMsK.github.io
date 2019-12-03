@@ -16,9 +16,9 @@ demo:     "https://client-knocknock.web.app/"
 ---
 
 <center>
-    <a href="https://client-knocknock.web.app/" class="btn" style="margin-bottom:2rem;">클라이언트 데모</a>
-    <a href="https://partner-knocknock.web.app/" class="btn" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
-    <a href="https://getick.xyz/" class="btn" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
+    <a href="https://client-knocknock.web.app/" class="btn" target="_sub" style="margin-bottom:2rem;">클라이언트 데모</a>
+    <a href="https://partner-knocknock.web.app/" class="btn" target="_sub" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
+    <a href="https://getick.xyz/" class="btn" target="_sub" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
 </center>
 
 
