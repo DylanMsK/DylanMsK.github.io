@@ -95,6 +95,8 @@ comments: false
 * 백엔드: `Python`, `Django`, `Heroku`
 * 프론트엔드: `Vus.js`, `Vuetify`, `Firebase`
 
+<br>
+
 ---
 
 ## [Airbnb]({{ site.url }}/Airbnb)
@@ -107,6 +109,8 @@ comments: false
 * 프론트: `HTML`, `CSS`, `Vanilla JS`, `Tailwind CSS`, `Gulp`
 
 ![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
+
+<br>
 
 ---
 
@@ -121,6 +125,8 @@ comments: false
 
 ![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
 
+<br>
+
 ---
 
 ## [Box.]({{ site.url }}/Box)
@@ -131,7 +137,7 @@ comments: false
 * 백엔드: `Python`, `Django`, `Selinium`, `Heroku`
 * 프론트: `HTML`, `CSS`, `Vanilla JS`, `Bootstrap`
 
-![Box 국가 리스트]({{ site.url }}/assets/img/projects/box/country_list.png)
+![Box 국가 리스트]({{ site.url }}/assets/img/projects/box/movie_detail1.png)
 
 <br>
 

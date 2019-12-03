@@ -70,6 +70,19 @@
         color: $info;
       }
     }
+    &.btn-point {
+      background-color: $red;
+      color: $white;
+      border-color: $red;
+      &:visited {
+        color: $white;
+      }
+      &:hover {
+        border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
+        background-color: $white;
+        color: $red;
+      }
+    }
 }
 .title .btn {
     margin: 10px;
