@@ -74,13 +74,13 @@
       background-color: rgba(255,65,54,0.85);
       color: $white;
       border-color: rgba(255,65,54,0.85);
+      transition: 0.5s;
       &:visited {
         color: $white;
       }
       &:hover {
         background-color: $red;
         border-color: $red;
-        transition-duration: 0.5s;
       }
     }
 }
