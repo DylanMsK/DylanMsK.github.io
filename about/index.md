@@ -7,11 +7,16 @@ comments: false
 ---
 
 # Who I am?
-저 자신만의 성장보다는 함께 성장하여 서로의 단점을 보완하는 개발 문화를 지향합니다.
-
-새로운 기술과 툴을 배우는 데 있어 두려움보다는 흥미가 앞서고, 겸손한 자세로 배워 나갑니다.
-
-저의 개발 철학은 모든 사람에게 도움이 되는 서비스를 제작하는 것입니다.
+<p style="font-size:1.2rem;">
+동료와 함께 성장하는 개발 문화를 지향합니다.
+</p>
+<p style="font-size:1.2rem;">
+새로운 것에 두려움 보다는 흥미가 앞서고, 겸손한 자세로 배워 나갑니다.
+</p>
+<p style="font-size:1.2rem;">
+사용자의 편의를 가장 우선으로 생각하는
+저의 개발 철학은 사용자가 편리하게 사용할 수 있는 서비스를 제작하는 것입니다.
+</p>
 
 <br>
 
@@ -23,7 +28,6 @@ comments: false
 ### Language
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/python.png" style="width:60px;height:60px;">
-    <img src="{{ site.url }}/assets/img/logos/javascript.png" style="width:60px;height:60px;margin-left:2rem;">
 </div>
 
 ### FrameWork
@@ -118,3 +122,11 @@ comments: false
 ### 역할
 * 백엔드: Python, Django, Selinium, Heroku
 * 프론트: HTML, CSS, Vanilla JS, Bootstrap
+
+<br>
+
+---
+
+<br>
+
+# Contact
