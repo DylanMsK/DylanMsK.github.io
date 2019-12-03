@@ -17,11 +17,12 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
+        <div class="wrapper animated fadeIn" style="background:none;">
             <div class="content">
-                <div class="post-title">
-                    <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
+                <div class="post-title" style="margin-bottom: 2rem;">
+                    <h1 style="color:#fff; ">{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}"
+                        style="background:none;color:#fff;border:none;font-size:2rem;">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
@@ -29,8 +30,7 @@ layout: compress
                     <ul>
                         {% for post in site.posts %}
                         {% if post.project %}
-                        <li class="wow" data-wow-duration="1.5s"
-                            style="border-bottom:solid 2px #cecece;border-right:solid 2px #cecece;border-left:solid 1px #cecece;border-top:solid 1px #cecece;border-radius:1rem;padding-top:2rem; margin-bottom:2rem;">
+                        <li class="wow" data-wow-duration="1.5s" style="margin-bottom:2rem;">
                             <a href="{{ site.url }}{{ post.url }}" class="zoombtn">
                                 <div style="overflow: hidden; height: 320px; position: relative; margin-bottom: 1rem;">
                                     <img src="{{ site.url }}/assets/img/projects/{{ post.image }}" alt=""
