@@ -71,19 +71,6 @@ comments: false
 
 # What I've done?
 
-## [Airbnb]({{ site.url }}/Airbnb)
-에어비엔비의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
-유저는 게스트/호스트로 나누었으며, 게스트는 예약을 하고 호스트에게 메세지를 보내고 후기를 작성할 수 있습니다.<br>
-호스트는 슈퍼 유저로서 예약을 관리하고 게스트에게 피드백을 보낼 수 있는 패널을 제공받습니다.
-
-### 역할
-* 백엔드: `Python`, `Django`, `AWS ElasticBeantalk`, `AWS S3`
-* 프론트: `HTML`, `CSS`, `Vanilla JS`, `Tailwind CSS`, `Gulp`
-
-![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
-
-<br>
-
 ## [Knocknock]({{ site.url }}/Knockonck)
 근처 영업중인 요식업체 실시간 조회 서비스 입니다.<br>
 유저는 클라이언트/파트너로 나누었으며, 클라이언트는 방문 희망하는 시간을 입력해 영업중인 인근 요식업체를 조회 가능합니다.<br>
@@ -97,6 +84,29 @@ comments: false
     {{ site.url }}/assets/img/projects/knocknock/restaurant_detail.png
 {% endcapture %}
 {% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
+
+<br>
+
+## [Getick]({{ site.url }}/Getick)
+매진된 SRT 티켓을 자동 예매 해주는 서비스 입니다.<br>
+사용자는 희망하는 날짜와 시간을 입력하며, 해당 시간에 취소표가 발생시 자동으로 예매를 진행해 사용자에게 문자/메일을 전송합니다.
+
+### 역할
+* 백엔드: `Python`, `Django`, `Heroku`
+* 프론트엔드: `Vus.js`, `Vuetify`, `Firebase`
+
+<br>
+
+## [Airbnb]({{ site.url }}/Airbnb)
+에어비엔비의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
+유저는 게스트/호스트로 나누었으며, 게스트는 예약을 하고 호스트에게 메세지를 보내고 후기를 작성할 수 있습니다.<br>
+호스트는 슈퍼 유저로서 예약을 관리하고 게스트에게 피드백을 보낼 수 있는 패널을 제공받습니다.
+
+### 역할
+* 백엔드: `Python`, `Django`, `AWS ElasticBeantalk`, `AWS S3`
+* 프론트: `HTML`, `CSS`, `Vanilla JS`, `Tailwind CSS`, `Gulp`
+
+![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
 
 <br>
 
@@ -130,4 +140,5 @@ comments: false
 <br>
 
 # Contact
-
+## 이름: 강민수
+## 이메일: kms920612@gmail.com
