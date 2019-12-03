@@ -14,7 +14,7 @@ comments: false
 새로운 것에 두려움 보다는 흥미가 앞서고, 겸손한 자세로 배워 나갑니다.
 </p>
 <p style="font-size:1.2rem;">
-저의 개발 철학은 사용자가 편리하게 사용할 수 있는 서비스를 제작하는 것입니다.
+저의 개발 철학은 모든 사용자가 편리하게 사용할 수 있는 서비스를 제작하는 것입니다.
 </p>
 
 <br>
@@ -24,7 +24,7 @@ comments: false
 <br>
 
 # What I can use?
-### 언어
+### 프로그래밍 언어
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/python.png" style="width:60px;height:60px;">
 </div>
@@ -48,7 +48,7 @@ comments: false
     <img src="{{ site.url }}/assets/img/logos/postgresql.png" style="width:60px;height:60px;">
 </div>
 
-### 호스팅
+### 호스팅 서비스
 <div style="display:inline-flex;">
     <img src="{{ site.url }}/assets/img/logos/aws.png" style="width:70px;height:60px;">
     <img src="{{ site.url }}/assets/img/logos/firebase.png" style="width:60px;height:60px;margin-left:2rem;">
@@ -85,7 +85,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="낰낰 웹 어플리케이션 스크린샷" cols=3 %}
 
-<br>
+---
 
 ## [Getick]({{ site.url }}/Getick)
 매진된 SRT 티켓을 자동 예매 해주는 서비스 입니다.<br>
@@ -95,7 +95,7 @@ comments: false
 * 백엔드: `Python`, `Django`, `Heroku`
 * 프론트엔드: `Vus.js`, `Vuetify`, `Firebase`
 
-<br>
+---
 
 ## [Airbnb]({{ site.url }}/Airbnb)
 에어비엔비의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
@@ -108,7 +108,7 @@ comments: false
 
 ![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
 
-<br>
+---
 
 ## [당근마켓]({{ site.url }}/Daangn)
 당근마켓의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
@@ -121,7 +121,7 @@ comments: false
 
 ![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
 
-<br>
+---
 
 ## [Box.]({{ site.url }}/Box)
 국가별 박스오피스와 넷플릭스의 주간 랭킹을 조회하는 서비스 입니다.<br>

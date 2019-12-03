@@ -1,7 +1,7 @@
 # Site
 title:              Minsu Kang
 bio:                "I do love learning technologies, working together and developing services."
-description:        "I do love learning technologies, working together and developing services."
+description:        "풀스택을 꿈꾸는 개발자 강민수 입니다."
 birth:              "1992.12.07"
 reading_time:       true
 words_per_minute:   200
@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              kms920612@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         dylanmsk
