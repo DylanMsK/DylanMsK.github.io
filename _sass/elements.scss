@@ -80,6 +80,7 @@
       &:hover {
         background-color: $red;
         border-color: $red;
+        transition-duration: 0.5s;
       }
     }
 }
