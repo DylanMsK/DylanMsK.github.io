@@ -83,6 +83,15 @@
         border-color: $red;
       }
     }
+    &.btn-github {
+      color: #383838;
+      &:visited {
+        color: #383838;
+      }
+      &:hover {
+        background-color: #dcdcdc;
+      }
+    }
 }
 .title .btn {
     margin: 10px;
