@@ -19,9 +19,9 @@ demo:     "https://client-knocknock.web.app/"
     <a href="https://github.com/DylanMsK/knocknock_gitlab" class="btn btn-github" target="_blank" style="margin-bottom:2rem;">
         <i class="fa fa-fw fa-github" style="margin-rignt:0.2rem;"></i>Github Repo
     </a>
-    <a href="https://client-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;">클라이언트 데모</a>
+    <a href="https://client-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">클라이언트 데모</a>
     <a href="https://partner-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
-    <a href="https://getick.xyz/" class="btn" target="_blank btn-point" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
+    <a href="https://getick.xyz/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
 </center>
 
 
@@ -84,8 +84,16 @@ demo:     "https://client-knocknock.web.app/"
 {% endcapture %}
 {% include gallery images=images caption="낰낰 파트너앱 스크린샷" cols=2 %}
 
+### API 문서 스크린샷
+![API 문서 스크린샷]({{ site.url }}/assets/img/projects/knocknock/api_doc.png)
+
+<br>
+
 <center>
-    <a href="https://client-knocknock.web.app/" class="btn" style="margon-top:3rem;margin-bottom:2rem;">클라이언트 데모</a>
-    <a href="https://partner-knocknock.web.app/" class="btn" style="margon-top:3rem;margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
-    <a href="https://getick.xyz/" class="btn" style="margon-top:3rem;margin-bottom:2rem;margin-left:2rem;">API 문서</a>
+    <a href="https://github.com/DylanMsK/knocknock_gitlab" class="btn btn-github" target="_blank" style="margin-bottom:2rem;">
+        <i class="fa fa-fw fa-github" style="margin-rignt:0.2rem;"></i>Github Repo
+    </a>
+    <a href="https://client-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">클라이언트 데모</a>
+    <a href="https://partner-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
+    <a href="https://getick.xyz/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
 </center>
