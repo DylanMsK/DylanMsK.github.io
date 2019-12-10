@@ -109,7 +109,7 @@ comments: false
 * 프론트: `HTML`, `CSS`, `Vanilla JS`, `Tailwind CSS`, `Gulp`
 
 ![Airbnb 메인페이지]({{ site.url }}/assets/img/projects/airbnb/airbnb_main.png)
-
+<!-- 
 <br>
 
 ---
@@ -124,7 +124,7 @@ comments: false
 * 프론트: `HTML`, `CSS`, `JQuery`, `Bootstrap`
 
 ![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
-
+ -->
 <br>
 
 ---
