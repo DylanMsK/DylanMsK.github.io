@@ -17,12 +17,14 @@ demo:     "https://client-knocknock.web.app/"
 
 <center>
     <a href="https://github.com/DylanMsK/knocknock_gitlab" class="btn btn-github" target="_blank" style="margin-bottom:2rem;">
-        <i class="fa fa-fw fa-github" style="margin-rignt:0.2rem;"></i>Github Repo
+        <i class="fa fa-fw fa-github" style="margin-rignt:0.5rem;"></i>Github Repo
     </a>
     <a href="https://client-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">클라이언트 데모</a>
     <a href="https://partner-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
     <a href="https://getick.xyz/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">API 문서</a>
 </center>
+
+> 본 서비스는 모바일 디스플레이와 안드로이드에 최적화 되어있습니다. 웹 브라우저 또는 ios로 접속하시면 위치 기능을 이용하지 못할 수 있습니다.
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/QkY_2X8F-Jc" frameborder="0"></iframe>
@@ -89,9 +91,11 @@ demo:     "https://client-knocknock.web.app/"
 
 <br>
 
+> 본 서비스는 모바일 디스플레이와 안드로이드에 최적화 되어있습니다. 웹 브라우저 또는 ios로 접속하시면 위치 기능을 이용하지 못할 수 있습니다.
+
 <center>
     <a href="https://github.com/DylanMsK/knocknock_gitlab" class="btn btn-github" target="_blank" style="margin-bottom:2rem;">
-        <i class="fa fa-fw fa-github" style="margin-rignt:0.2rem;"></i>Github Repo
+        <i class="fa fa-fw fa-github" style="margin-rignt:0.5rem;"></i>Github Repo
     </a>
     <a href="https://client-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">클라이언트 데모</a>
     <a href="https://partner-knocknock.web.app/" class="btn btn-point" target="_blank" style="margin-bottom:2rem;margin-left:2rem;">파트너 데모</a>
