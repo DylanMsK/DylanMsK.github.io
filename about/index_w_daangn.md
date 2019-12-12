@@ -114,6 +114,21 @@ comments: false
 
 ---
 
+## [당근마켓]({{ site.url }}/Daangn)
+당근마켓의 핵심 기능을 Django 풀스택으로 구현한 서비스 입니다.<br>
+유저는 구매자/판매자로 나누었으며, 구매자는 판매자에게 채팅으로 거래를 신청하고 후기를 작성할 수 있습니다.<br>
+판매자는 판매글을 작성하고 구매자들의 채팅에 피드백을 보낼 수 있습니다.
+
+### 역할
+* 백엔드: `Python`, `Django`, `Heroku`, `AWS S3`
+* 프론트: `HTML`, `CSS`, `JQuery`, `Bootstrap`
+
+![당근마켓 메인페이지]({{ site.url }}/assets/img/projects/daangn/daangn_main.png)
+
+<br>
+
+---
+
 ## [Box.]({{ site.url }}/Box)
 국가별 박스오피스와 넷플릭스의 주간 랭킹을 조회하는 서비스 입니다.<br>
 유저는 해당 영상에 대한 트레일러와 간단한 정보를 조회할 수 있습니다.
